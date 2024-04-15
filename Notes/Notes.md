@@ -1,0 +1,1 @@
+This folder contains all my notes as I follow along the video [Node.js and Express.js](https://www.youtube.com/watch?v=Oe421EPjeBE)

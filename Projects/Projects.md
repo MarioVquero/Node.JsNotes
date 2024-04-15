@@ -1,0 +1,1 @@
+Hello, this folder will contain links to all of the projects [this](https://www.youtube.com/watch?v=qwfE7fSVaZM) tutorial asks me to make along with further projects related to this topic/language.
