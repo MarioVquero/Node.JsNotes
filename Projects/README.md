@@ -5,5 +5,7 @@ First Project in Tutorial
 <ul>
     <li> All Styling as of writing was pre made by Tutorial </li>
     <li> Server setup and Atlas site setup was done by me through tutorial</li>
-    <li> will also keep Atlas in mind for future project that don't require too much information to be stored</li>
+    <li> will also keep Atlas in mind for future projects that don't require too much storage</li>
 </ul>
+
+
